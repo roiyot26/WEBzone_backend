@@ -1,4 +1,3 @@
-link to demo : https://webzone.onrender.com/
  ## WEBzone app
 
 ![Pasted Graphic](https://github.com/user-attachments/assets/962cb6c5-78f5-4cbe-9522-782820043ed7)
