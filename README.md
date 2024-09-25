@@ -28,5 +28,6 @@ npm i
 - Run the project
   
 ```bash
-npm run dev
+npm start
 ```
+open http://localhost:3030/
