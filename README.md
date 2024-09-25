@@ -15,19 +15,8 @@ https://webzone.onrender.com/
 ## Link to frontend repository
 https://github.com/roiyot26/WEBzone_frontend
 
-## Installation - to run locally
+## View Code
 - Clone the repository to your local machine using:
 ```bash
 git clone https://github.com/roiyot26/WEBzone_backend
 ```
-- Install packages
-  
-```bash
-npm i
-```
-- Run the project
-  
-```bash
-npm start
-```
-open http://localhost:3030/
